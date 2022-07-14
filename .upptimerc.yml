@@ -9,7 +9,7 @@ sites:
     url: https://idmdev.tech
   - name: Puente
     url: https://apis.idmdev.tech
-  -name: Delivery
+  - name: Delivery
     url: https://delivery-to.com
   - name: AGSAL
     url: https://digital.aguasdesaltillo.com
