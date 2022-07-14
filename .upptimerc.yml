@@ -7,6 +7,8 @@ sites:
     url: https://grupodimakers.com
   - name: IDM dev
     url: https://idmdev.tech
+  - name: Puente
+    url: https://apis.idmdev.tech
   - name: WH Tools
     url: https://wh.tools
   - name: Aguillon
