@@ -9,10 +9,26 @@ sites:
     url: https://idmdev.tech
   - name: Puente
     url: https://apis.idmdev.tech
+  -name: Delivery
+    url: https://delivery-to.com
+  - name: AGSAL
+    url: https://digital.aguasdesaltillo.com
   - name: WH Tools
     url: https://wh.tools
   - name: Aguillon
     url: https://aguillon.com.mx
+  - name: Lennox Reclutamiento
+    url: https://lennoxreclutamiento.com
+  - name: Lennox Bot Reclutamiento
+    url: https://bot.lennoxreclutamiento.com
+  - name: Lennox Bot Salary
+    url: https://botsalary.lennoxreclutamiento.com
+  - name: Lennox Bot PTU
+    url: https://lennoxforemployee.lennoxreclutamiento.com
+  - name: Platinados
+    url: https://platinados.platco.net
+  - name: Plating
+    url: https://plating.platco.net
 
 assignees:
   - jesusm0920
