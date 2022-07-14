@@ -24,7 +24,7 @@ sites:
   - name: Lennox Bot Salary
     url: https://botsalary.lennoxreclutamiento.com
   - name: Lennox Bot PTU
-    url: https://lennoxforemployee.lennoxreclutamiento.com
+    url: https://lennoxformeremployee.lennoxreclutamiento.com/
   - name: Platinados
     url: https://platinados.platco.net
   - name: Plating
