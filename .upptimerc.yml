@@ -10,7 +10,7 @@ sites:
   - name: Puente
     url: https://apis.idmdev.tech
   - name: Delivery
-    url: https://delivery-to.com
+    url: https://delivery-to.com/administrador/
   - name: AGSAL
     url: https://digital.aguasdesaltillo.com
   - name: WH Tools
