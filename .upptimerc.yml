@@ -1,5 +1,5 @@
 # Change these first
-owner: pablokbs # Your GitHub organization or username, where this repository lives
+owner: jesusm0920 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -9,11 +9,11 @@ sites:
     url: https://www.fredrikson.com.ar
   - name: Pelado Nerd
     url: https://www.peladonerd.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Aguillon
+    url: https://aguillon.com.mx
 
 assignees:
-  - pablokbs
+  - jesusm0920
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
