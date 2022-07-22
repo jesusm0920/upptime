@@ -4,19 +4,19 @@
     "url": "https://grupodimakers.com",
     "icon": "https://favicons.githubusercontent.com/grupodimakers.com",
     "slug": "grupo-dimakers",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 421,
-    "timeDay": 316,
-    "timeWeek": 574,
-    "timeMonth": 421,
-    "timeYear": 421,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 408,
+    "timeDay": 282,
+    "timeWeek": 533,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-07-22": 3
+      "2022-07-22": 11
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/idmdev.tech",
     "slug": "idm-dev",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "99.52%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 355,
     "timeDay": 153,
     "timeWeek": 411,
     "timeMonth": 355,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2022-07-22": 2,
+      "2022-07-22": 13,
       "2022-07-14": 42
     }
   },
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/apis.idmdev.tech",
     "slug": "puente",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.89%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 320,
     "timeDay": 417,
     "timeWeek": 296,
     "timeMonth": 320,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2022-07-22": 2
+      "2022-07-22": 12
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/delivery-to.com",
     "slug": "delivery",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 202,
     "timeDay": 167,
     "timeWeek": 178,
     "timeMonth": 202,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2022-07-22": 1
+      "2022-07-22": 12
     }
   },
   {
@@ -104,18 +104,18 @@
     "icon": "https://favicons.githubusercontent.com/wh.tools",
     "slug": "wh-tools",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 2113,
     "timeDay": 2632,
     "timeWeek": 2639,
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2022-07-22": 1
+      "2022-07-22": 11
     }
   },
   {
@@ -124,18 +124,18 @@
     "icon": "https://favicons.githubusercontent.com/aguillon.com.mx",
     "slug": "aguillon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 6365,
     "timeDay": 5958,
     "timeWeek": 6556,
     "timeMonth": 6365,
     "timeYear": 6365,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 10
     }
   },
   {
@@ -216,11 +216,11 @@
     "icon": "https://favicons.githubusercontent.com/platinados.platco.net",
     "slug": "platinados",
     "status": "up",
-    "uptime": "93.60%",
+    "uptime": "93.61%",
     "uptimeDay": "93.43%",
     "uptimeWeek": "92.85%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "93.60%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "93.61%",
     "time": 285,
     "timeDay": 247,
     "timeWeek": 271,
