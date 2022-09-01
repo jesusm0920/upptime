@@ -145,9 +145,9 @@
     "url": "https://lennoxreclutamiento.com",
     "icon": "https://favicons.githubusercontent.com/lennoxreclutamiento.com",
     "slug": "lennox-reclutamiento",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -156,7 +156,9 @@
     "timeWeek": 1340,
     "timeMonth": 741,
     "timeYear": 543,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-01": 0
+    }
   },
   {
     "name": "Lennox Bot Reclutamiento",
@@ -218,18 +220,17 @@
     "icon": "https://favicons.githubusercontent.com/platinados.platco.net",
     "slug": "platinados",
     "status": "up",
-    "uptime": "94.73%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "94.73%",
+    "uptime": "94.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "94.75%",
     "time": 753,
     "timeDay": 322,
     "timeWeek": 312,
     "timeMonth": 1006,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2022-09-01": 11,
       "2022-08-25": 19,
       "2022-08-24": 17,
       "2022-08-23": 41,
