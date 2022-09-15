@@ -10,32 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "IDM dev",
-    "url": "https://idmdev.tech",
-    "icon": "https://favicons.githubusercontent.com/idmdev.tech",
-    "slug": "idm-dev",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
-    "time": 402,
-    "timeDay": 192,
-    "timeWeek": 902,
-    "timeMonth": 538,
-    "timeYear": 402,
-    "dailyMinutesDown": {
-      "2022-07-22": 46,
-      "2022-07-14": 42
-    }
   }
 ]
