@@ -1,22 +1,22 @@
 [
   {
     "name": "Test1",
-    "url": "https://dev.grayassociates.com/internal_windows_authentication",
-    "icon": "https://favicons.githubusercontent.com/dev.grayassociates.com",
+    "url": "google.com",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test1",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 237,
-    "timeDay": 237,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "status": "up",
+    "uptime": "25.06%",
+    "uptimeDay": "25.06%",
+    "uptimeWeek": "25.06%",
+    "uptimeMonth": "25.06%",
+    "uptimeYear": "25.06%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 118
     }
   }
 ]
