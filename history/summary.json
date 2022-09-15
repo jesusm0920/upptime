@@ -1,20 +1,22 @@
 [
   {
     "name": "Test1",
-    "url": "https://grupodimakers.com",
-    "icon": "https://favicons.githubusercontent.com/grupodimakers.com",
+    "url": "https://dev.grayassociates.com/internal_windows_authentication",
+    "icon": "https://favicons.githubusercontent.com/dev.grayassociates.com",
     "slug": "test1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 281,
-    "timeWeek": 281,
-    "timeMonth": 281,
-    "timeYear": 281,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
