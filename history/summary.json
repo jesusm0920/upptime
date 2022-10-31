@@ -1,8 +1,8 @@
 [
   {
     "name": "Test1",
-    "url": "google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://demo.grayassociates.com",
+    "icon": "https://icons.duckduckgo.com/ip3/demo.grayassociates.com.ico",
     "slug": "test1",
     "status": "up",
     "uptime": "99.82%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 198,
-    "timeDay": 78,
-    "timeWeek": 144,
-    "timeMonth": 159,
-    "timeYear": 198,
+    "time": 207,
+    "timeDay": 355,
+    "timeWeek": 205,
+    "timeMonth": 174,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2022-09-15": 118
     }
